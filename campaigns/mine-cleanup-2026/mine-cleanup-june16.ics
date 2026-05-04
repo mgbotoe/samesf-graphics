@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SAME San Francisco Post//Mine Cleanup Info Exchange//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20260616T160000Z
+DTEND:20260616T203000Z
+SUMMARY:Mine Cleanup Info Exchange
+DESCRIPTION:SAME SF Mine Cleanup Info Exchange presented by EPA Region 9. A half-day technical forum for practitioners working CERCLA hardrock mine sites — presentations\, poster sessions\, and facilitated discussion.
+LOCATION:EPA Region 9 Office\, San Francisco\, CA
+ORGANIZER;CN=SAME San Francisco Post:mailto:samesanfrancisco@gmail.com
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
