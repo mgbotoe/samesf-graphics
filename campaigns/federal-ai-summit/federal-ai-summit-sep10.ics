@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SAME San Francisco Post//Federal AI Summit//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20260910T160000Z
+DTEND:20260911T000000Z
+SUMMARY:Federal AI Summit: AI for A/E/C
+DESCRIPTION:SAME SF + Stanford CIFE | A full day of keynotes\, panels\, and cross-sector networking on AI's impact across federal infrastructure and the built environment. Registration: www.federalaisummit.org
+LOCATION:Stanford University\, Stanford\, CA
+ORGANIZER;CN=SAME San Francisco Post:mailto:samesanfrancisco@gmail.com
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
